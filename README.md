@@ -1,2 +1,2 @@
 # Mathco
-Training trail project last updates(03.03.2023)
+Training trail project last updates(04.03.2023)
